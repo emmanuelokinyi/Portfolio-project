@@ -10,9 +10,6 @@ This is me.I share about my skills, educational background, hobbies and my favou
 
 ![Screenshot from 2024-03-18 16-10-58](https://github.com/kahenya-anita/The-Tribe-Portfolio/assets/161694764/9a7dd831-c148-4779-8e3c-b8e7ada303c2)
 
-
-
-
 ********
 ## SetUp Instruction
 ### Requirements
