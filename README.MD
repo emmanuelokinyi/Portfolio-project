@@ -17,7 +17,6 @@ This is me.I share about my skills, educational background, hobbies and my favou
 * [css](Framework URL)
 * Text editor eg [Visual Studio Code](https://code.visualstudio.com/download)
 
-
 ### Getting Files
 * Fork the repo
 - Create a new branch in your terminal (git checkout -b improve-feature)
